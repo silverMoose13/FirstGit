@@ -9,6 +9,7 @@ public class FirstGit {
         // TODO code application logic here
         
         System.out.println("Hello World");
+        int x = 5;
         
     }
     
