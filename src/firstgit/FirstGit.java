@@ -12,6 +12,10 @@ public class FirstGit {
         int x = 5;
         int y = 8;
         
+        for (int i = 0; i < 10; i++) {
+            i++;
+        }
+        
     }
     
 }
