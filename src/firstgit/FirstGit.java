@@ -10,6 +10,7 @@ public class FirstGit {
         
         System.out.println("Hello World");
         int x = 5;
+        int y = 8;
         
     }
     
